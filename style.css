@@ -1,0 +1,11 @@
+@import url(variable.css);
+
+body {
+    background: var(--color-1);
+    margin: 0;
+
+    height: 100dvh;
+    display: grid;
+    place-content: center center;
+}
+
